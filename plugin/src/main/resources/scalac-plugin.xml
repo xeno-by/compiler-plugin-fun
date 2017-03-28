@@ -1,0 +1,4 @@
+<plugin>
+  <name>compiler-plugin</name>
+  <classname>by.xeno.CompilerPlugin</classname>
+</plugin>
